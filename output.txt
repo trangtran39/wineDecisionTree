@@ -1,0 +1,28 @@
+	VALIDATION SET
+
+Class 1 has:
+True Positive: 11
+True Negative: 23
+False Positive: 1
+False Negative: 1
+Overall Accuracy = 0.944444
+Sensitivity = 0.916667
+Specificity = 0.958333
+
+Class 2 has:
+True Positive: 12
+True Negative: 19
+False Positive: 3
+False Negative: 2
+Overall Accuracy = 0.861111
+Sensitivity = 0.857143
+Specificity = 0.863636
+
+Class 3 has:
+True Positive: 8
+True Negative: 25
+False Positive: 1
+False Negative: 2
+Overall Accuracy = 0.916667
+Sensitivity = 0.800000
+Specificity = 0.961538
